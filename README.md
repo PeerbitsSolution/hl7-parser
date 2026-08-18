@@ -66,7 +66,9 @@ expects one back.
 npm install @peerbits/hl7-parser
 ```
 
-## 4. Quick Start
+## 4. Demo and Quick Start
+
+[Peerbits HealthTech - HL7 Parser Demo](https://healthcare.peerbits.com/demo/hl7-parser)
 
 Input — a synthetic ADT^A01 admit message
 (`fixtures/valid/adt-a01-admit.hl7`):
