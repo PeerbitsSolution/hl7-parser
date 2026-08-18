@@ -1,0 +1,50 @@
+{
+  "name": "@peerbits/hl7-parser",
+  "version": "0.1.0",
+  "description": "HL7 v2 message parser — structured, typed JSON from pipe-delimited ADT/ORU/ORM messages",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "eslint . --ext .ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeerbitsSolution/hl7-parser.git"
+  },
+  "homepage": "https://github.com/PeerbitsSolution/hl7-parser#readme",
+  "bugs": {
+    "url": "https://github.com/PeerbitsSolution/hl7-parser/issues"
+  },
+  "keywords": [
+    "hl7",
+    "hl7v2",
+    "healthcare-interoperability",
+    "adt",
+    "oru",
+    "orm",
+    "typescript",
+    "healthcare",
+    "interface-engine",
+    "parser"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.5.0",
+    "vitest": "^4.1.0",
+    "eslint": "^9.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

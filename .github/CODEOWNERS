@@ -1,0 +1,10 @@
+# No auth/token paths in this repo. The accuracy-sensitive surface here is
+# segment/field correctness (needs real interface-engine familiarity, not
+# just spec-reading) and fixture hygiene (highest PHI-shaped-fixture risk
+# in the initiative — see handover doc §6.1).
+*                          @PeerbitsSolution/interop-team
+/src/segments/             @PeerbitsSolution/interop-team
+/src/message-types/        @PeerbitsSolution/interop-team
+/fixtures/                 @PeerbitsSolution/interop-team
+/docs/SEGMENT_REFERENCE.md @PeerbitsSolution/interop-team
+SECURITY.md                @PeerbitsSolution/interop-team
