@@ -1,6 +1,6 @@
 {
   "name": "@peerbits/hl7-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HL7 v2 message parser — structured, typed JSON from pipe-delimited ADT/ORU/ORM messages",
   "license": "Apache-2.0",
   "type": "module",

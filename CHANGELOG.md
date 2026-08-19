@@ -5,7 +5,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [0.1.0] - TBD
+## [0.1.1] - TBD
 First tagged release. Alpha — API may still change before 1.0.0. See
 `docs/RELEASING.md` for how this version number gets published; the
 maintainer running the release fills in the real date here at tag time.
