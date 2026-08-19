@@ -10,7 +10,7 @@
 
 **Category:** FHIR & SMART — Interoperability Libraries · **License:** Apache-2.0 · **Status:** alpha
 
-**Docs:** [User Guide](./docs/USER_GUIDE.md) · [API Reference](./docs/API_REFERENCE.md) · [Segment Reference](./docs/SEGMENT_REFERENCE.md) · [Security Policy](./SECURITY.md)
+**Docs:** [User Guide](./docs/USER_GUIDE.md) · [API Reference](./docs/API_REFERENCE.md) · [Segment Reference](./docs/SEGMENT_REFERENCE.md) · [Releasing](./docs/RELEASING.md) · [Security Policy](./SECURITY.md)
 
 ---
 
